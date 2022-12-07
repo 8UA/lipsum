@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+}
+
+h1, h2, h4 {
+    font-style: normal;
+    font-variant: small-caps;
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: gray;
+}
+
+a:hover, a:active {
+    color: darkgray;
+}
+
+.lorem-content {
+    color: white;
+
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-style: italic;
+
+    text-align: center;
+    inline-size: 90%;
+    padding-left: 5%;
+}
+
+.line {
+    border-top: 1px solid white;
+}
